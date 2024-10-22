@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MyWhySaputra.is-me" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MyWhySaputra.MyWhySaputra" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahyu+Saputra!;" />
 </h1>
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MyWhySaputra/is-me/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MyWhySaputra/MyWhySaputra/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
